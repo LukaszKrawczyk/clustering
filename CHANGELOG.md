@@ -1,3 +1,7 @@
+v.1.3.1
+- update dependencies
+- audit fix
+
 v.1.3.0
 - bower compatibility (huge thanks to ([@tim42](https://github.com/tim42)))
 
